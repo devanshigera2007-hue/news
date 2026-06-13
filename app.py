@@ -6,7 +6,7 @@ from datetime import datetime
 # -----------------------------
 # CONFIG
 # -----------------------------
-API_KEY = "a3f417b116fa4104b3c547e8ee9d32e1"
+API_KEY = "df63bd871eb24da6ae2c6005f8f23f54"
 BASE_URL = "https://newsapi.org/v2/top-headlines"
 
 st.set_page_config(
